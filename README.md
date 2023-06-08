@@ -12,4 +12,5 @@ If you are attempting this on a different game engine it should at least give yo
 
 ### Credits
 [Doodlum](https://github.com/doodlum "Doodlum") - His source for Skyrims implementation
+
 mambda on GH for his alternative method for getting the swapchain virtual table
